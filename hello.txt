@@ -1,3 +1,5 @@
-Hello BUDDY!
-New Changes2.
+Hello world!!!
+It's Python.
+It's Javascript!
+New changes!
 
